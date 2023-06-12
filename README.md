@@ -25,5 +25,20 @@ The dataset is downloaded from the Kaggle Datasets updated 2 months ago, recordi
  10 company_location: The country of the employer's main office or contracting branch
  
  11 company_size: The median number of people that worked for the company during the year
+ 
+ ### CRISP-DM process
+ ![image](https://github.com/wanlidu2/wanlidu2.github.io-salary/assets/121735612/7ff197a2-90e5-4630-9caf-f18bcc81b68c)
+#### 1 Business Understanding
+
+#### 2 Data Understanding
+
+#### 3 prepare data
+
+#### 4 model data
+
+#### 5 results
+
+#### 6 deploy
+ 
 
 ##### Data source https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023?sort=most-comments
