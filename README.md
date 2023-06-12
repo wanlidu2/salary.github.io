@@ -25,3 +25,5 @@ The dataset is downloaded from the Kaggle Datasets updated 2 months ago, recordi
  10 company_location: The country of the employer's main office or contracting branch
  
  11 company_size: The median number of people that worked for the company during the year
+
+##### Data source https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023?sort=most-comments
